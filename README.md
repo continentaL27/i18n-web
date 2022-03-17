@@ -15,3 +15,4 @@ go to
 ```
 http://localhost:9999
 ```
+![demo](https://github.com/continentaL27/i18n-web/blob/main/webDemo.gif)
